@@ -25,8 +25,11 @@ My research interest includes AI security and privacy computing, I've also done 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 USENIX 2023, 
-- *2022.02*: &nbsp;🎉🎉 NDSS 2026,  
+- *2023.02*: &nbsp;🎉🎉 USENIX 2023, Catch You and I Can: Revealing Source Voiceprint Against Voice Conversion.
+- *2025.10*: &nbsp;💼💼 Offer GET, State Grid Corporation of China.
+- *2025.11*: &nbsp;💼💼 Offer GET, Alibaba.
+- *2025.12*: &nbsp;🎉🎉 NDSS 2026, Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs.
+- *2025.12*: &nbsp;💼💼 Offer GET, HUAWEI 2012.
 
 # 📝 Publications 
 

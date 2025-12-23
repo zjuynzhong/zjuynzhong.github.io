@@ -35,19 +35,19 @@ Thank you for visiting my homepage.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX 2023</div><img src='images/publications/revelio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Catch You and I Can: Revealing Source Voiceprint Against Voice Conversion](https://www.usenix.org/conference/usenixsecurity23/presentation/deng-jiangyi-voiceprint)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Jiangyi Deng, Yanjiao Chen, **Yinan Zhong**, Qianhao Miao, Xueluan Gong, Wenyuan Xu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**]() <strong><span class='show_paper_citations' data='sdMObQ4AAAAJ:u-x6o8ySG0sC'></span></strong>
+- In this work, we propose the first effective approach to perform voiceprint restoration from audios processed by voice conversion techniques, which may be added as a tool of voice forensics to help trace and identify the source speaker of an audio.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2022.10* Nation Scholarship, Ministry of Education of the PRC. 
@@ -58,7 +58,7 @@ Thank you for visiting my homepage.
 - *2019.09 - 2023.06*, Undergraduate, College of Electrical Engineering, Zhejiang Univeristy, Hangzhou, China.
 
 # 💬 Invited Talks
-- *2024.10*, 2024 CyberC, DIFORMER: An Attention-Based IoT Device Identification Method, Guangzhou, China.
+- *2024.10*, CyberC 2024, DIFORMER: An Attention-Based IoT Device Identification Method, Guangzhou, China.
 
 # 💻 Internships
 - *2025.02 - 2025.09*, Alibaba, Hangzhou, China.

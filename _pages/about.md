@@ -19,7 +19,7 @@ redirect_from:
 
 Thank you for visiting my homepage. I graduated from EE College, Zhejiang University (浙江大学电气学院) with a bachelor’s degree and now studying for MEng in <a href="http://usslab.org">USSLAB</a>.
 
-My research interest includes AI security and privacy computing, I've also done some researches in LLMs and IoTs. My publications can be found <a href="https://scholar.google.com/citations?user=sdMObQ4AAAAJ&hl=zh-CN&oi=ao">HERE</a> ( <a href='https://scholar.google.com/citations?user=sdMObQ4AAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes AI security and privacy computing, I've also done some researches in LLMs and IoTs. My publications can be found <a href="https://scholar.google.com/citations?user=sdMObQ4AAAAJ">HERE</a> ( <a href='https://scholar.google.com/citations?user=sdMObQ4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 

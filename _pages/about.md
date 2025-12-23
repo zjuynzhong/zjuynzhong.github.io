@@ -47,10 +47,11 @@ Jiangyi Deng, Yanjiao Chen, **Yinan Zhong**, Qianhao Miao, Xueluan Gong, Wenyuan
 </div>
 </div>
 
+
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2022.10* Nation Scholarship, Ministry of Education of the PRC. 
+- *2022.10*, Nation Scholarship, Ministry of Education of the PRC. 
 
 
 # 📖 Educations

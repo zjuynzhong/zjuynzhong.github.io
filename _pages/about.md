@@ -47,6 +47,32 @@ Jiangyi Deng, Yanjiao Chen, **Yinan Zhong**, Qianhao Miao, Xueluan Gong, Wenyuan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Symmetry 2024</div><img src='images/publications/resdfnn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Res-DFNN: An NN-Based Device Fingerprint Extraction Method Using Network Packet Data](https://www.mdpi.com/2073-8994/16/4/443)
+
+**Yinan Zhong**, Mingyu Pan, Yanjiao Chen, Wenyuan Xu
+
+[**Project**]() <strong><span class='show_paper_citations' data='sdMObQ4AAAAJ:d1gkVwhDpl0C'></span></strong>
+- In this work, we propose a novel device fingerprint extraction method, RES-DFNN, which utilizes network packet data to uniquely identify IoT devices. Our method does not depend on a MAC/IP address, which means it is more generalizable. Besides, RES-DFNN achieves better performance compared to previous DF extraction methods.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2026</div><img src='images/publications/rennervate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2512.08417)
+
+**Yinan Zhong**, Qianhao Miao, Yanjiao Chen, Jiangyi Deng, Yushi Cheng, Wenyuan Xu
+
+[**Project**]() <strong><span class='show_paper_citations' data='sdMObQ4AAAAJ:qjMakFHDy7sC'></span></strong>
+- In this work, we introduce a token-level mechanism, called Rennervate, that leverages attention features for Indirect Prompt Injection (IPI) detection and sanitization, designing a 2-step attentive pooling mechanism to extract key features for accurate detection.
+</div>
+</div>
+
+
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 

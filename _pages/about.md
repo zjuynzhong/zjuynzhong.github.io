@@ -28,10 +28,11 @@ Thank you for visiting my homepage.
 
 # 🔥 News
 - *2023.02*: &nbsp;🎉🎉 USENIX 2023, Catch You and I Can: Revealing Source Voiceprint Against Voice Conversion.
-- *2025.10*: &nbsp;💼💼 Offer GET, State Grid Corporation of China, Hanzhou.
-- *2025.11*: &nbsp;💼💼 Offer GET, Alibaba, Hanzhou.
+<!-- - *2025.10*: &nbsp;💼💼 Offer GET, State Grid Corporation of China, Hanzhou.
+- *2025.11*: &nbsp;💼💼 Offer GET, Alibaba, Hanzhou. -->
 - *2025.12*: &nbsp;🎉🎉 NDSS 2026, Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs.
-- *2025.12*: &nbsp;💼💼 Offer GET, HUAWEI 2012, Hanzhou.
+<!-- - *2025.12*: &nbsp;💼💼 Offer GET, HUAWEI 2012, Hanzhou. -->
+- *2025.12*: &nbsp;🎉🎉 ICASSP 2026, Synaspot: A Lightweight, Streaming Multi-modal Framework for Keyword Spotting with Audio-Text Synergy.
 
 # 📝 Publications 
 
@@ -69,6 +70,19 @@ Jiangyi Deng, Yanjiao Chen, **Yinan Zhong**, Qianhao Miao, Xueluan Gong, Wenyuan
 
 [**Project**]() <strong><span class='show_paper_citations' data='sdMObQ4AAAAJ:qjMakFHDy7sC'></span></strong>
 - In this work, we introduce a token-level mechanism, called Rennervate, that leverages attention features for Indirect Prompt Injection (IPI) detection and sanitization, designing a 2-step attentive pooling mechanism to extract key features for accurate detection.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/publications/synaspot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Synaspot: A Lightweight, Streaming Multi-modal Framework for Keyword Spotting with Audio-Text Synergy](https://arxiv.org/abs/2512.15124)
+
+Kewei Li, **Yinan Zhong**, Xiaotao Liang, Tianchi Dai, Shaofei Xue
+
+[**Project**]() <strong><span class='show_paper_citations' data='sdMObQ4AAAAJ:UeHWp8X0CEIC'></span></strong>
+- In this work, we introduce a streaming decoding framework that only requires the encoder to extract features, which are then mathematically decoded with our three modal representations. Experiments on LibriPhase and WenetPrase demonstrate the performance of our model. Compared to existing streaming approaches, our method achieves better performance with significantly fewer parameters.
 </div>
 </div>
 

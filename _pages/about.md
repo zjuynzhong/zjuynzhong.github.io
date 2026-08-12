@@ -28,8 +28,8 @@ Thank you for visiting my homepage.
 
 # 🔥 News
 - *2023.02*: &nbsp;🎉🎉 USENIX 2023, Catch You and I Can: Revealing Source Voiceprint Against Voice Conversion.
-<!-- - *2025.10*: &nbsp;💼💼 Offer GET, State Grid Corporation of China, Hanzhou.
-- *2025.11*: &nbsp;💼💼 Offer GET, Alibaba, Hanzhou. -->
+<!-- - *2025.10*: &nbsp;💼💼 Offer GET, State Grid Corporation of China, Hanzhou. -->
+<!-- - *2025.11*: &nbsp;💼💼 Offer GET, Alibaba, Hanzhou. -->
 - *2025.12*: &nbsp;🎉🎉 NDSS 2026, Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs.
 <!-- - *2025.12*: &nbsp;💼💼 Offer GET, HUAWEI 2012, Hanzhou. -->
 - *2025.12*: &nbsp;🎉🎉 ICASSP 2026, Synaspot: A Lightweight, Streaming Multi-modal Framework for Keyword Spotting with Audio-Text Synergy.

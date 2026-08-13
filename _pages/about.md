@@ -17,11 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+ <a href="resume/resume.pdf" download="zyn.pdf">Click here to download the resume</a>
+ 
  I am now a master student in <a href="http://usslab.org">USSLAB</a>, College of Electrical Engineering, Zhejiang Univeristy (浙江大学电气学院).
 
 My research interest includes AI security and privacy computing, I've also done some researches in LLMs and IoTs. My publications can be found <a href="https://scholar.google.com/citations?user=sdMObQ4AAAAJ">HERE</a>. 
 <!-- ( <a href='https://scholar.google.com/citations?user=sdMObQ4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-Thank you for visiting my homepage.
+Thank you for visiting my homepage. 
+
+
 
 
 
